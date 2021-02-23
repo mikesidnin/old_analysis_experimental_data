@@ -1,10 +1,4 @@
 # old_analysis_experimental_data
 
-Старая рабочая программа для сглаживания случайных выбросов и расчета дисперсии экспериментальных данных.
-IDE Embercadero Rad Studio. 
-1. Выбираем файл с данными
-2. Считываем в массив
-3. Находим отклонение по ячейке 3 на 3 и в случае превышения заменяем средним значением ячейки
-4. Считаем дисперсию ячейки
-5. Формируем массивы ячеек 
-6. Записываем в файл
+Old desktop application for a simple experimental data analysis.  
+Created on Embercadero Rad Studio. 
